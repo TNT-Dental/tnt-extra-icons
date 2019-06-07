@@ -12,4 +12,4 @@ New set of icons for TNT sites.
 
     <link href="https://tntdentalwebsites.com/tnticons/css/fontello.css" type="text/css" rel="stylesheet">
 
-[Open TNTDENTALWEBSITES Demo Page](https://www.tntdentalwebsites.com/tnticons/demo.html "View Demo")
+[Open tntdentalwebsites Demo Page](https://www.tntdentalwebsites.com/tnticons/demo.html "View Demo")
