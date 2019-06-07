@@ -8,7 +8,7 @@ New set of icons for TNT sites.
 
 [Open Github Demo Page](https://tnt-dental.github.io/tnt-extra-icons/demo.html "View Demo")
 
-### Source 2: tntdentalwebsites.com (~40ms)
+### Source 2: tntdentalwebsites.com (~30ms)
 
     <link href="https://tntdentalwebsites.com/tnt-extra-icons/css/fontello.css" type="text/css" rel="stylesheet">
 
